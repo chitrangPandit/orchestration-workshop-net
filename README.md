@@ -1,5 +1,6 @@
 # Introduction
 This is a port of Jerome Petazzo's [Docker Coins Workshop](https://github.com/docker-training/orchestration-workshop) to .NET Core and Windows Server Containers. For the UI we are using the `microsoft/nanoserver` based Node image provided by Stefan Scherrer: [https://github.com/StefanScherer/dockerfiles-windows/tree/master/node](https://github.com/StefanScherer/dockerfiles-windows/tree/master/node).
+this is testing.
 
 ## Cloning the Repo
 On the target computer clone the repo:
